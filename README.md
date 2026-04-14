@@ -38,6 +38,30 @@
 </p>
 
 ---
+<br />
+<br />
+
+<div>
+    <strong>GitHub Contributions</strong>
+    <p>Latest contributions to open-source projects.</p>
+</div>
+
+<picture 
+    style="
+        width: 100%;
+    ">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" />
+    <img alt="github-snake" 
+        src="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" 
+        style="
+            width: 100%;
+        "
+    />
+</picture>
+
+<br />
+<br />
 
 ###  GitHub Stats
 <p align="center">
