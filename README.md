@@ -12,7 +12,7 @@
 - Passionate about **building full-stack web applications**
 - Portfolio: [www.stha-anil.com.np](https://www.stha-anil.com.np)
 - Blogs: [www.stha-anil.com.np/blogs](https://www.stha-anil.com.np/blogs)
-- WebToolNest: [www.webtoolnest.dev](https://www.webtoolnest.dev)
+- WebToolNest: [www.webtoolnest.dev](https://webtoolnest.dev/)
 - Email: [anilstha662@gmail.com](mailto:anilstha662@gmail.com)
 - Fun fact: I love coding + learning ethical hacking 
 
