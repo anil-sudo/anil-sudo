@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0072FF&height=280&section=header&text=Anil%20Shrestha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Nepal&descAlignY=58" />
 </p>
 
-<h1 align="center">Hi , I'm Anil Shrestha</h1>
-
-<h3 align="center"> Full Stack Developer | Laravel • React • Node.js • Python</h3>
+<h3 align="center"> Full Stack Developer | Laravel • React  • Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;Cyber+Security+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
