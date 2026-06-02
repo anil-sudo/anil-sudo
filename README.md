@@ -98,13 +98,6 @@
 
 ---
 
-##  GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-sudo&theme=tokyonight" />
-</p>
-
----
 
 ##  Featured Projects
 
