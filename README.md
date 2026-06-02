@@ -1,29 +1,48 @@
-<h1 align="center">Hi, I'm Anil Shrestha</h1>
-<h3 align="center">Full Stack Developer from Nepal</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0072FF&height=280&section=header&text=Anil%20Shrestha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Nepal&descAlignY=58" />
+</p>
+
+<h1 align="center">Hi , I'm Anil Shrestha</h1>
+
+<h3 align="center"> Full Stack Developer | Laravel • React • Node.js • Python</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anil-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;Cyber+Security+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anil-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-###  About Me
-- Currently learning **Laravel, React, Node.js, Python**
-- Passionate about **building full-stack web applications**
-- Portfolio: [www.stha-anil.com.np](https://www.stha-anil.com.np)
-- Blogs: [www.stha-anil.com.np/blogs](https://www.stha-anil.com.np/blogs)
-- WebToolNest: [www.webtoolnest.dev](https://webtoolnest.dev/)
-- Email: [anilstha662@gmail.com](mailto:anilstha662@gmail.com)
-- Fun fact: I love coding + learning ethical hacking 
+##  About Me
+
+-  Currently learning **Laravel, React, Node.js, Python**
+-  Passionate about **Full Stack Web Development**
+-  Interested in **Cyber Security & Ethical Hacking**
+-  Building modern web applications and tools
+-  Focused on continuous learning and growth
+
+###  Portfolio & Projects
+
+- Portfolio: **https://www.stha-anil.com.np**
+- Blog: **https://www.stha-anil.com.np/blogs**
+- WebToolNest: **https://webtoolnest.dev**
+
+###  Contact
+
+- Email: **anilstha662@gmail.com**
 
 ---
 
-###  Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/stha-anil/" target="https://www.linkedin.com/in/stha-anil/">
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stha-anil/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/anil-sudo" target="https://github.com/anil-sud">
+  <a href="https://github.com/anil-sudo">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
   <a href="mailto:anilstha662@gmail.com">
@@ -33,57 +52,89 @@
 
 ---
 
-###  Languages and Tools
+## 💻 Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,java,react,nodejs,laravel,mongodb,mysql,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,java,react,nodejs,laravel,mongodb,mysql,docker,linux,git,github,vscode" />
 </p>
 
 ---
-<br />
-<br />
-
-<div>
-    <strong>GitHub Contributions</strong>
-    <p>Latest contributions to open-source projects.</p>
-</div>
-
-<picture 
-    style="
-        width: 100%;
-    ">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" />
-    <img alt="github-snake" 
-        src="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" 
-        style="
-            width: 100%;
-        "
-    />
-</picture>
-
-<br />
-<br />
 
 ###  GitHub Stats
+
 <p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-sudo&theme=tokyonight" alt="GitHub Streak" />
+
 </p>
 
-
+---
 
 ---
 
-###  Featured Projects
--  **E-commerce Website (Laravel + React)**
--  **Blog Platform (PHP + MySQL)**
--  **Portfolio Website**
--  **API-based Web Apps**
+##  Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anil-sudo&theme=tokyo-night" />
+</p>
 
 ---
 
-###  Goals
--  Become a **Top Full Stack Developer**
--  Contribute to **Open Source**
--  Master **System Design & Backend Scaling**
+##  GitHub Contributions
 
-<p align="center">✨ Keep Learning, Keep Building ✨</p>
+<div align="center">
+  <strong>Latest contributions to open-source projects</strong>
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg"
+       width="100%" />
+</picture>
+
+---
+
+##  GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-sudo&theme=tokyonight" />
+</p>
+
+---
+
+##  Featured Projects
+
+###  WebToolNest
+A collection of useful online tools designed to improve productivity and simplify daily tasks.
+
+###  E-Commerce Website
+Laravel + React based e-commerce platform.
+
+###  Blog Platform
+PHP & MySQL blogging platform.
+
+###  API-Based Applications
+Modern applications powered by external APIs.
+
+---
+
+##  Goals
+
+-  Become a Top Full Stack Developer
+-  Contribute More to Open Source
+-  Master System Design
+-  Learn Backend Scaling
+-  Strengthen Cyber Security Skills
+-  Build Products Used by Thousands
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Keep+Learning+🚀;Keep+Building+💻;Never+Stop+Growing+🔥" />
+</p>
