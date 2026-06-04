@@ -21,9 +21,9 @@
 <p align="left">
   <a href="https://www.stha-anil.com.np" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🌐%20Learn%20More-111827?style=for-the-badge"
+      src="https://img.shields.io/badge/🌐%20Learn%20More-22c55e?style=for-the-badge"
       alt="Learn More"
-      style="border-radius:8px;"
+      style="border-radius:50px; background-color:red"
     />
   </a>
 </p>
