@@ -18,6 +18,15 @@
 -  Building modern web applications and tools
 -  Focused on continuous learning and growth
 
+<p align="left">
+  <a href="https://www.stha-anil.com.np" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🌐%20Learn%20More-111827?style=for-the-badge"
+      alt="Learn More"
+      style="border-radius:8px;"
+    />
+  </a>
+</p>
 ###  Portfolio & Projects
 
 - Portfolio: **https://www.stha-anil.com.np**
