@@ -1,15 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0072FF&height=280&section=header&text=Anil%20Shrestha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Nepal&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a192f&height=300&section=header&text=Anil%20Shrestha&fontSize=65&fontColor=36BCF7&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Nepal&descAlignY=60&descColor=8892b0&stroke=36BCF7&strokeWidth=2" />
 </p>
 
-<h3 align="center"> Full Stack Developer | Laravel • React  • Python</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js+%7C+Python;Building+Scalable+Web+Applications;Cyber+Security+Enthusiast;Open+to+Collaborate+%26+Build" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;Cyber+Security+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=anil-sudo&label=Profile+Views&color=36BCF7&style=flat-square" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anil-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/anil-sudo">
+    <img src="https://img.shields.io/badge/GitHub-anil--sudo-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
@@ -61,9 +71,7 @@
 ###  GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-sudo&theme=tokyonight" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anil-sudo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
