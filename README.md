@@ -12,7 +12,7 @@
 
 ##  About Me
 
--  Currently I'm learning **Laravel, React, Node.js, Python**
+-  Currently I'm learning **Laravel, React, Python**
 -  Passionate about **Full Stack Web Development**
 -  Interested in **Cyber Security & Ethical Hacking**
 -  Building modern web applications and tools
