@@ -15,7 +15,7 @@
 -  Currently I'm learning **Laravel, React, Python**
 -  Passionate about **Full Stack Web Development**
 -  Interested in **Cyber Security & Ethical Hacking**
--  Building modern web applications and tools
+-  Building modern web applications and web tools
 -  Focused on continuous learning and growth
 
 <p align="left">
